@@ -87,7 +87,7 @@
     "chalk": "^4.1.2",
     "clipboard-copy": "^3.2.0",
     "compression": "^1.7.4",
-    "cookie": "^0.3.1",
+    "cookie": "^0.4.1",
     "d3-array": "^1.2.4",
     "d3-collection": "^1.0.7",
     "d3-color": "^1.4.1",
